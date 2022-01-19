@@ -1,0 +1,112 @@
+*{
+    margin: O;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-size:  20px;
+
+    
+}
+.middle{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    background-image: url(https://www.pennlive.com/resizer/vytvuNIiXWqmz8wWsd79GCgP_TM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SQSBAJOSTJD4BKWKHQUC45VYT4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+.box{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.582);
+    color: rgba(255, 255, 0, 0);
+    
+}
+.boxTimer{
+    height: 600px;
+    width: 600px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin: auto;
+    text-align: center;
+    color: rgba(255, 255, 0, 0);
+    
+}
+.Timer{
+    border: 1px solid rgba(255, 255, 255, 0);
+    background: none;
+    padding: auto;
+    margin: 10px 15px;
+    transition: 0.3s;
+    border-radius: 3px;
+    color: white;
+    font-size: 30px;
+}
+.Texte{
+    color: white;
+}
+.unité{
+    font-size: 13px;
+    margin: 5px;
+}
+.Dsnk{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Hsnk{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Msnk{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Ssnk{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Dkny{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Hkny{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Mkny{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Skny{
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.Timer:hover{
+    background-color: rgba(236, 236, 236, 0.178);
+}
